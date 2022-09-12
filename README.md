@@ -1,5 +1,6 @@
 #### Competition repository
-EDA can be found under eda.ipynb <br>
+EDA: 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;eda.ipynb <br>
 
 Modelling: <br>
-experimentation_CPU.ipynb <br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;experimentation_CPU.ipynb <br>
