@@ -1,4 +1,5 @@
 #### Competition repository
+EDA can be found under eda.ipynb <br>
 
-experimentation.ipynb GPU-based models (rapids env) <br>
+Modelling: <br>
 experimentation_CPU.ipynb <br>
